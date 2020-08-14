@@ -1,7 +1,18 @@
 # Lab 4b - Portfolio
 **Date:** Aug 2020
 
-**About:** This is a lab at Code Fellows using a pre structured portfolio layout that we modified greatly to our own preferences.
+**About:** This is a lab at Code Fellows using a pre structured portfolio layout that we modified greatly to our own preferences. Per assignment instructions there is a list of time estimates for the tasks below. 
+
+### Time Estimates
+>Number and Name of Feature: #1 | Refactor CSS  
+>Estimated time to complete: 30 Minutes  
+>Start time: 5:15 PM | End time: 5:40 PM  
+>Actual time needed to complete: 25 Minutes
+
+>Number and Name of Feature: #2 | Modify Contents   
+>Estimated time to complete: 2 Hours  
+>Start time: 5:45 PM | End time: ?? PM    
+>Actual time needed to complete: TBD
 
 
 ### Reference provided by Code Fellows | Aug 2020
