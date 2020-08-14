@@ -48,6 +48,9 @@ h2 {
   font-size: 2em;
   letter-spacing: -1px;
 }
+  #top > div > header > h2 {
+    font-size: 4em;
+  }
 
   h2.alt {
     color: #888;
@@ -67,6 +70,7 @@ header {
 
   header > p {
     margin: 1em 0 0 0;
+    font-size: 2rem;
   }
 
 footer {
@@ -269,7 +273,7 @@ button,
   color: #fff !important;
   text-decoration: none;
   padding: 0.75em 2.5em 0.75em 2.5em;
-  background-color: #8ebebc;
+  background-color: #41cece;
   border: 0;
   cursor: pointer;
   background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -435,7 +439,7 @@ margin-bottom: 0;
     }
 
       #nav ul li a.active span:before {
-        color: #e27689;
+        color: #74d8d8;
       }
 
 /* Footer */
@@ -479,7 +483,7 @@ margin-left: 375px;
   overflow: hidden;
   padding: 4em 0;
   box-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.05), inset 0 0.1em 0.1em 0 rgba(0, 0, 0, 0.025);
-  text-align: center;
+  /* text-align: center; */
   background-image: url("images/overlay.png");
 }
 
@@ -514,7 +518,7 @@ margin-left: 375px;
 
   #main > section.one {
     background-color: #81918E;
-    background-image: url("../../images/banner.jpg");
+    background-image: url("../../images/landingimg.png");
   }
 
   #main > section.two {
