@@ -1,4 +1,4 @@
-# Lab 4b - Portfolio
+# Lab 4b + Lab 5 - Portfolio + Deploy to Heroku
 **Date:** Aug 2020
 
 **About:** This is a lab at Code Fellows using a pre structured portfolio layout that we modified color scheme, styling, images, content, etc. to our own preferences. Per assignment instructions there is a list of time estimates for the tasks below. 
@@ -13,6 +13,16 @@
 >Estimated time to complete: 2 Hours  
 >Start time: 5:45 PM | End time: 7:45 PM    
 >Actual time needed to complete: 2 Hours
+
+>Number and Name of Feature: #1(Lab5) | Deployment    
+>Estimated time to complete: 30 minutes    
+>Start time: ?? PM | End time: ?? PM      
+>Actual time needed to complete:   
+
+>Number and Name of Feature: #2(Lab5) | Add Functionality  
+>Estimated time to complete: 1.5 hours  
+>Start time: ?? PM | End time: ?? PM    
+>Actual time needed to complete: 
 
 
 ### Reference provided by Code Fellows | Aug 2020
