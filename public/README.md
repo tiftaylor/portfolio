@@ -1,6 +1,8 @@
 # Lab 4b + Lab 5 - Portfolio + Deploy to Heroku
 **Date:** Aug 2020
 
+**Live Heroku Link:** [https://tiftaylor-portfolio.herokuapp.com/](https://tiftaylor-portfolio.herokuapp.com/)  
+
 **About:** This is a lab at Code Fellows using a pre structured portfolio layout that we modified color scheme, styling, images, content, etc. to our own preferences. Per assignment instructions there is a list of time estimates for the tasks below. 
 
 ### Time Estimates
@@ -16,13 +18,13 @@
 
 >Number and Name of Feature: #1(Lab5) | Deployment    
 >Estimated time to complete: 30 minutes    
->Start time: ?? PM | End time: ?? PM      
->Actual time needed to complete:   
+>Start time: 5:00 PM | End time: 5:30 PM      
+>Actual time needed to complete: 30 minutes   
 
 >Number and Name of Feature: #2(Lab5) | Add Functionality  
 >Estimated time to complete: 1.5 hours  
->Start time: ?? PM | End time: ?? PM    
->Actual time needed to complete: 
+>Start time: 5:40 PM | End time: 7:20 PM    
+>Actual time needed to complete: 1 hour 40 minutes
 
 
 ### Reference provided by Code Fellows | Aug 2020
