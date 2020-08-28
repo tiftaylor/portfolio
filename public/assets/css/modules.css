@@ -843,7 +843,7 @@ display: none;
     -ms-transition: -ms-transform 0.5s ease;
     transition: transform 0.5s ease;
     padding-bottom: 1px;
-    margin-left: 0;
+    margin-left: 200px;
   }
 
     #main > section {
@@ -876,6 +876,19 @@ display: none;
     padding: 0 15px 0 15px;
   }
 
+
+
+  #header {
+    -moz-transform: translateX(-275px);
+    -webkit-transform: translateX(-275px);
+    -ms-transform: translateX(-275px);
+    transform: translateX(-275px);
+    -moz-transition: -moz-transform 0.5s ease;
+    -webkit-transition: -webkit-transform 0.5s ease;
+    -ms-transition: -ms-transform 0.5s ease;
+    transition: transform 0.5s ease;
+  }
+
 /* List */
 
   ul.icons a {
@@ -884,6 +897,10 @@ display: none;
   }
 
 /* Main */
+
+  #main {
+    margin-left: 0;
+  }
 
   #main > section {
     padding: 2em 0;
