@@ -523,8 +523,9 @@ margin-left: 375px;
 
   #main > section.one {
     background-color: #81918E;
-    /* background-image: url("../../images/landingimg.png"); */
+    background-image: url("../../images/landingimg.png");
     position: relative;
+    background-position: right;
   }
 
   #main > section.two {
